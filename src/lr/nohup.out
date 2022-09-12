@@ -1,0 +1,757 @@
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.23.1
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.23.1
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.23.1
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.23.1
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.23.1
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.23.1
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.23.1
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.23.1
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.23.1
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.23.1
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.23.1
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/sium/dv/federatedml/src/lr/client.py:174: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  X = train.drop("Class", 1)
+2022-09-12 19:41:40,303 [INFO] [CONNECTED] Client connected to server at 0.0.0.0:5566
+/home/sium/dv/federatedml/src/lr/client.py:174: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  X = train.drop("Class", 1)
+2022-09-12 19:41:41,088 [INFO] [CONNECTED] Client connected to server at 0.0.0.0:5566
+/home/sium/dv/federatedml/src/lr/client.py:174: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  X = train.drop("Class", 1)
+2022-09-12 19:41:41,292 [INFO] [CONNECTED] Client connected to server at 0.0.0.0:5566
+/home/sium/dv/federatedml/src/lr/client.py:174: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  X = train.drop("Class", 1)
+2022-09-12 19:41:41,500 [INFO] [CONNECTED] Client connected to server at 0.0.0.0:5566
+/home/sium/dv/federatedml/src/lr/client.py:174: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  X = train.drop("Class", 1)
+2022-09-12 19:41:41,703 [INFO] [CONNECTED] Client connected to server at 0.0.0.0:5566
+/home/sium/dv/federatedml/src/lr/client.py:174: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  X = train.drop("Class", 1)
+2022-09-12 19:41:41,870 [INFO] [CONNECTED] Client connected to server at 0.0.0.0:5566
+/home/sium/dv/federatedml/src/lr/client.py:174: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  X = train.drop("Class", 1)
+2022-09-12 19:41:41,943 [INFO] [CONNECTED] Client connected to server at 0.0.0.0:5566
+/home/sium/dv/federatedml/src/lr/client.py:174: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  X = train.drop("Class", 1)
+2022-09-12 19:41:41,953 [INFO] [CONNECTED] Client connected to server at 0.0.0.0:5566
+/home/sium/dv/federatedml/src/lr/client.py:174: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  X = train.drop("Class", 1)
+2022-09-12 19:41:41,956 [INFO] [CONNECTED] Client connected to server at 0.0.0.0:5566
+/home/sium/dv/federatedml/src/lr/client.py:174: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  X = train.drop("Class", 1)
+2022-09-12 19:41:41,973 [INFO] [CONNECTED] Client connected to server at 0.0.0.0:5566
+/home/sium/dv/federatedml/src/lr/client.py:174: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  X = train.drop("Class", 1)
+2022-09-12 19:41:41,979 [INFO] [CONNECTED] Client connected to server at 0.0.0.0:5566
+2022-09-12 19:42:00,339 [INFO] [CONNECTED] Client connected to server at 0.0.0.0:5566
+2022-09-12 19:42:01,109 [INFO] [CONNECTED] Client connected to server at 0.0.0.0:5566
+2022-09-12 19:42:01,314 [INFO] [CONNECTED] Client connected to server at 0.0.0.0:5566
+2022-09-12 19:42:01,521 [INFO] [CONNECTED] Client connected to server at 0.0.0.0:5566
+2022-09-12 19:42:01,724 [INFO] [CONNECTED] Client connected to server at 0.0.0.0:5566
+2022-09-12 19:42:01,903 [INFO] [CONNECTED] Client connected to server at 0.0.0.0:5566
+2022-09-12 19:42:01,962 [INFO] [CONNECTED] Client connected to server at 0.0.0.0:5566
+2022-09-12 19:42:01,974 [INFO] [CONNECTED] Client connected to server at 0.0.0.0:5566
+2022-09-12 19:42:01,974 [INFO] [CONNECTED] Client connected to server at 0.0.0.0:5566
+2022-09-12 19:42:01,990 [INFO] [CONNECTED] Client connected to server at 0.0.0.0:5566
+2022-09-12 19:42:01,998 [INFO] [CONNECTED] Client connected to server at 0.0.0.0:5566
+INFO flower 2022-09-12 19:42:10,392 | connection.py:102 | Opened insecure gRPC connection (no certificates were passed)
+2022-09-12 19:42:10,392 [INFO] Opened insecure gRPC connection (no certificates were passed)
+DEBUG flower 2022-09-12 19:42:10,393 | connection.py:39 | ChannelConnectivity.IDLE
+2022-09-12 19:42:10,393 [DEBUG] ChannelConnectivity.IDLE
+DEBUG flower 2022-09-12 19:42:10,393 | connection.py:39 | ChannelConnectivity.CONNECTING
+2022-09-12 19:42:10,393 [DEBUG] ChannelConnectivity.CONNECTING
+DEBUG flower 2022-09-12 19:42:10,394 | connection.py:39 | ChannelConnectivity.READY
+2022-09-12 19:42:10,394 [DEBUG] ChannelConnectivity.READY
+INFO flower 2022-09-12 19:42:11,201 | connection.py:102 | Opened insecure gRPC connection (no certificates were passed)
+2022-09-12 19:42:11,201 [INFO] Opened insecure gRPC connection (no certificates were passed)
+DEBUG flower 2022-09-12 19:42:11,202 | connection.py:39 | ChannelConnectivity.IDLE
+2022-09-12 19:42:11,202 [DEBUG] ChannelConnectivity.IDLE
+DEBUG flower 2022-09-12 19:42:11,202 | connection.py:39 | ChannelConnectivity.READY
+2022-09-12 19:42:11,202 [DEBUG] ChannelConnectivity.READY
+INFO flower 2022-09-12 19:42:11,405 | connection.py:102 | Opened insecure gRPC connection (no certificates were passed)
+2022-09-12 19:42:11,405 [INFO] Opened insecure gRPC connection (no certificates were passed)
+DEBUG flower 2022-09-12 19:42:11,405 | connection.py:39 | ChannelConnectivity.IDLE
+2022-09-12 19:42:11,405 [DEBUG] ChannelConnectivity.IDLE
+DEBUG flower 2022-09-12 19:42:11,406 | connection.py:39 | ChannelConnectivity.CONNECTING
+2022-09-12 19:42:11,406 [DEBUG] ChannelConnectivity.CONNECTING
+DEBUG flower 2022-09-12 19:42:11,406 | connection.py:39 | ChannelConnectivity.READY
+2022-09-12 19:42:11,406 [DEBUG] ChannelConnectivity.READY
+INFO flower 2022-09-12 19:42:11,608 | connection.py:102 | Opened insecure gRPC connection (no certificates were passed)
+2022-09-12 19:42:11,608 [INFO] Opened insecure gRPC connection (no certificates were passed)
+DEBUG flower 2022-09-12 19:42:11,608 | connection.py:39 | ChannelConnectivity.IDLE
+2022-09-12 19:42:11,608 [DEBUG] ChannelConnectivity.IDLE
+DEBUG flower 2022-09-12 19:42:11,609 | connection.py:39 | ChannelConnectivity.READY
+2022-09-12 19:42:11,609 [DEBUG] ChannelConnectivity.READY
+INFO flower 2022-09-12 19:42:11,783 | connection.py:102 | Opened insecure gRPC connection (no certificates were passed)
+2022-09-12 19:42:11,783 [INFO] Opened insecure gRPC connection (no certificates were passed)
+DEBUG flower 2022-09-12 19:42:11,783 | connection.py:39 | ChannelConnectivity.IDLE
+2022-09-12 19:42:11,783 [DEBUG] ChannelConnectivity.IDLE
+DEBUG flower 2022-09-12 19:42:11,784 | connection.py:39 | ChannelConnectivity.READY
+2022-09-12 19:42:11,784 [DEBUG] ChannelConnectivity.READY
+INFO flower 2022-09-12 19:42:11,962 | connection.py:102 | Opened insecure gRPC connection (no certificates were passed)
+2022-09-12 19:42:11,962 [INFO] Opened insecure gRPC connection (no certificates were passed)
+DEBUG flower 2022-09-12 19:42:11,962 | connection.py:39 | ChannelConnectivity.IDLE
+2022-09-12 19:42:11,962 [DEBUG] ChannelConnectivity.IDLE
+DEBUG flower 2022-09-12 19:42:11,963 | connection.py:39 | ChannelConnectivity.READY
+2022-09-12 19:42:11,963 [DEBUG] ChannelConnectivity.READY
+INFO flower 2022-09-12 19:42:12,046 | connection.py:102 | Opened insecure gRPC connection (no certificates were passed)
+2022-09-12 19:42:12,046 [INFO] Opened insecure gRPC connection (no certificates were passed)
+DEBUG flower 2022-09-12 19:42:12,046 | connection.py:39 | ChannelConnectivity.IDLE
+2022-09-12 19:42:12,046 [DEBUG] ChannelConnectivity.IDLE
+DEBUG flower 2022-09-12 19:42:12,047 | connection.py:39 | ChannelConnectivity.CONNECTING
+2022-09-12 19:42:12,047 [DEBUG] ChannelConnectivity.CONNECTING
+DEBUG flower 2022-09-12 19:42:12,047 | connection.py:39 | ChannelConnectivity.READY
+2022-09-12 19:42:12,047 [DEBUG] ChannelConnectivity.READY
+INFO flower 2022-09-12 19:42:12,049 | connection.py:102 | Opened insecure gRPC connection (no certificates were passed)
+2022-09-12 19:42:12,049 [INFO] Opened insecure gRPC connection (no certificates were passed)
+INFO flower 2022-09-12 19:42:12,049 | connection.py:102 | Opened insecure gRPC connection (no certificates were passed)
+2022-09-12 19:42:12,049 [INFO] Opened insecure gRPC connection (no certificates were passed)
+DEBUG flower 2022-09-12 19:42:12,049 | connection.py:39 | ChannelConnectivity.IDLE
+2022-09-12 19:42:12,049 [DEBUG] ChannelConnectivity.IDLE
+DEBUG flower 2022-09-12 19:42:12,049 | connection.py:39 | ChannelConnectivity.CONNECTING
+2022-09-12 19:42:12,049 [DEBUG] ChannelConnectivity.CONNECTING
+DEBUG flower 2022-09-12 19:42:12,049 | connection.py:39 | ChannelConnectivity.IDLE
+DEBUG flower 2022-09-12 19:42:12,049 | connection.py:39 | ChannelConnectivity.READY
+2022-09-12 19:42:12,049 [DEBUG] ChannelConnectivity.READY
+2022-09-12 19:42:12,049 [DEBUG] ChannelConnectivity.IDLE
+DEBUG flower 2022-09-12 19:42:12,050 | connection.py:39 | ChannelConnectivity.READY
+2022-09-12 19:42:12,050 [DEBUG] ChannelConnectivity.READY
+INFO flower 2022-09-12 19:42:12,060 | connection.py:102 | Opened insecure gRPC connection (no certificates were passed)
+2022-09-12 19:42:12,060 [INFO] Opened insecure gRPC connection (no certificates were passed)
+DEBUG flower 2022-09-12 19:42:12,061 | connection.py:39 | ChannelConnectivity.IDLE
+2022-09-12 19:42:12,061 [DEBUG] ChannelConnectivity.IDLE
+DEBUG flower 2022-09-12 19:42:12,062 | connection.py:39 | ChannelConnectivity.READY
+2022-09-12 19:42:12,062 [DEBUG] ChannelConnectivity.READY
+INFO flower 2022-09-12 19:42:12,064 | connection.py:102 | Opened insecure gRPC connection (no certificates were passed)
+2022-09-12 19:42:12,064 [INFO] Opened insecure gRPC connection (no certificates were passed)
+DEBUG flower 2022-09-12 19:42:12,065 | connection.py:39 | ChannelConnectivity.IDLE
+2022-09-12 19:42:12,065 [DEBUG] ChannelConnectivity.IDLE
+DEBUG flower 2022-09-12 19:42:12,065 | connection.py:39 | ChannelConnectivity.CONNECTING
+2022-09-12 19:42:12,065 [DEBUG] ChannelConnectivity.CONNECTING
+DEBUG flower 2022-09-12 19:42:12,066 | connection.py:39 | ChannelConnectivity.READY
+2022-09-12 19:42:12,066 [DEBUG] ChannelConnectivity.READY
+2022-09-12 19:42:12,467 [INFO] Evaluration pre merge done
+2022-09-12 19:42:12,772 [INFO] Evaluration pre merge done
+2022-09-12 19:42:12,942 [INFO] Evaluration pre merge done
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2022-09-12 19:42:13,530 [INFO] Evaluration post merge done
+2022-09-12 19:42:13,618 [INFO] Evaluration post merge done
+2022-09-12 19:42:13,625 [INFO] Evaluration post merge done
+2022-09-12 19:42:13,630 [INFO] Evaluration post merge done
+2022-09-12 19:42:13,634 [INFO] Evaluration post merge done
+2022-09-12 19:42:13,636 [INFO] Evaluration post merge done
+2022-09-12 19:42:13,645 [INFO] Evaluration post merge done
+2022-09-12 19:42:13,646 [INFO] Evaluration post merge done
+2022-09-12 19:42:13,647 [INFO] Evaluration post merge done
+2022-09-12 19:42:13,649 [INFO] Evaluration post merge done
+2022-09-12 19:42:13,653 [INFO] Evaluration post merge done
+2022-09-12 19:42:14,428 [INFO] Evaluration pre merge done
+2022-09-12 19:42:14,636 [INFO] Evaluration pre merge done
+2022-09-12 19:42:14,685 [INFO] Evaluration pre merge done
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2022-09-12 19:42:15,138 [INFO] Evaluration post merge done
+2022-09-12 19:42:15,147 [INFO] Evaluration post merge done
+2022-09-12 19:42:15,179 [INFO] Evaluration post merge done
+2022-09-12 19:42:15,186 [INFO] Evaluration post merge done
+2022-09-12 19:42:15,193 [INFO] Evaluration post merge done
+2022-09-12 19:42:15,212 [INFO] Evaluration post merge done
+2022-09-12 19:42:15,216 [INFO] Evaluration post merge done
+2022-09-12 19:42:15,216 [INFO] Evaluration post merge done
+2022-09-12 19:42:15,218 [INFO] Evaluration post merge done
+2022-09-12 19:42:15,222 [INFO] Evaluration post merge done
+2022-09-12 19:42:15,231 [INFO] Evaluration post merge done
+2022-09-12 19:42:15,595 [INFO] Evaluration pre merge done
+2022-09-12 19:42:15,947 [INFO] Evaluration pre merge done
+2022-09-12 19:42:16,101 [INFO] Evaluration pre merge done
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2022-09-12 19:42:16,532 [INFO] Evaluration post merge done
+2022-09-12 19:42:16,610 [INFO] Evaluration post merge done
+2022-09-12 19:42:16,651 [INFO] Evaluration post merge done
+2022-09-12 19:42:16,661 [INFO] Evaluration post merge done
+2022-09-12 19:42:16,673 [INFO] Evaluration post merge done
+2022-09-12 19:42:16,674 [INFO] Evaluration post merge done
+2022-09-12 19:42:16,675 [INFO] Evaluration post merge done
+2022-09-12 19:42:16,675 [INFO] Evaluration post merge done
+2022-09-12 19:42:16,677 [INFO] Evaluration post merge done
+2022-09-12 19:42:16,686 [INFO] Evaluration post merge done
+2022-09-12 19:42:16,686 [INFO] Evaluration post merge done
+2022-09-12 19:42:17,291 [INFO] Evaluration pre merge done
+2022-09-12 19:42:17,466 [INFO] Evaluration pre merge done
+2022-09-12 19:42:17,650 [INFO] Evaluration pre merge done
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2022-09-12 19:42:18,185 [INFO] Evaluration post merge done
+2022-09-12 19:42:18,215 [INFO] Evaluration post merge done
+2022-09-12 19:42:18,221 [INFO] Evaluration post merge done
+2022-09-12 19:42:18,223 [INFO] Evaluration post merge done
+2022-09-12 19:42:18,244 [INFO] Evaluration post merge done
+2022-09-12 19:42:18,248 [INFO] Evaluration post merge done
+2022-09-12 19:42:18,250 [INFO] Evaluration post merge done
+2022-09-12 19:42:18,251 [INFO] Evaluration post merge done
+2022-09-12 19:42:18,262 [INFO] Evaluration post merge done
+2022-09-12 19:42:18,265 [INFO] Evaluration post merge done
+2022-09-12 19:42:18,267 [INFO] Evaluration post merge done
+2022-09-12 19:42:18,926 [INFO] Evaluration pre merge done
+2022-09-12 19:42:19,123 [INFO] Evaluration pre merge done
+2022-09-12 19:42:19,295 [INFO] Evaluration pre merge done
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2022-09-12 19:42:19,798 [INFO] Evaluration post merge done
+2022-09-12 19:42:19,877 [INFO] Evaluration post merge done
+2022-09-12 19:42:19,899 [INFO] Evaluration post merge done
+2022-09-12 19:42:19,901 [INFO] Evaluration post merge done
+2022-09-12 19:42:19,905 [INFO] Evaluration post merge done
+2022-09-12 19:42:19,906 [INFO] Evaluration post merge done
+2022-09-12 19:42:19,909 [INFO] Evaluration post merge done
+2022-09-12 19:42:19,915 [INFO] Evaluration post merge done
+2022-09-12 19:42:19,919 [INFO] Evaluration post merge done
+2022-09-12 19:42:19,924 [INFO] Evaluration post merge done
+2022-09-12 19:42:19,929 [INFO] Evaluration post merge done
+2022-09-12 19:42:20,544 [INFO] Evaluration pre merge done
+2022-09-12 19:42:20,902 [INFO] Evaluration pre merge done
+2022-09-12 19:42:20,909 [INFO] Evaluration pre merge done
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/sklearn/base.py:443: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2022-09-12 19:42:21,497 [INFO] Evaluration post merge done
+2022-09-12 19:42:21,505 [INFO] Evaluration post merge done
+2022-09-12 19:42:21,523 [INFO] Evaluration post merge done
+2022-09-12 19:42:21,531 [INFO] Evaluration post merge done
+2022-09-12 19:42:21,542 [INFO] Evaluration post merge done
+2022-09-12 19:42:21,558 [INFO] Evaluration post merge done
+2022-09-12 19:42:21,563 [INFO] Evaluration post merge done
+2022-09-12 19:42:21,571 [INFO] Evaluration post merge done
+2022-09-12 19:42:21,574 [INFO] Evaluration post merge done
+2022-09-12 19:42:21,574 [INFO] Evaluration post merge done
+2022-09-12 19:42:21,576 [INFO] Evaluration post merge done
+DEBUG flower 2022-09-12 19:42:21,876 | connection.py:39 | ChannelConnectivity.IDLE
+DEBUG flower 2022-09-12 19:42:21,876 | connection.py:39 | ChannelConnectivity.IDLE
+DEBUG flower 2022-09-12 19:42:21,876 | connection.py:39 | ChannelConnectivity.IDLE
+DEBUG flower 2022-09-12 19:42:21,876 | connection.py:39 | ChannelConnectivity.IDLE
+DEBUG flower 2022-09-12 19:42:21,876 | connection.py:39 | ChannelConnectivity.IDLE
+2022-09-12 19:42:21,876 [DEBUG] ChannelConnectivity.IDLE
+2022-09-12 19:42:21,876 [DEBUG] ChannelConnectivity.IDLE
+2022-09-12 19:42:21,876 [DEBUG] ChannelConnectivity.IDLE
+DEBUG flower 2022-09-12 19:42:21,876 | connection.py:39 | ChannelConnectivity.IDLE
+DEBUG flower 2022-09-12 19:42:21,876 | connection.py:121 | gRPC channel closed
+DEBUG flower 2022-09-12 19:42:21,876 | connection.py:39 | ChannelConnectivity.IDLE
+2022-09-12 19:42:21,876 [DEBUG] ChannelConnectivity.IDLE
+2022-09-12 19:42:21,876 [DEBUG] gRPC channel closed
+2022-09-12 19:42:21,876 [DEBUG] ChannelConnectivity.IDLE
+2022-09-12 19:42:21,876 [DEBUG] ChannelConnectivity.IDLE
+Mem. usage decreased to  0.50 Mb (74.6% reduction)
+Traceback (most recent call last):
+2022-09-12 19:42:21,876 [DEBUG] ChannelConnectivity.IDLE
+  File "/home/sium/dv/federatedml/src/lr/client.py", line 207, in <module>
+DEBUG flower 2022-09-12 19:42:21,876 | connection.py:121 | gRPC channel closed
+    main()
+  File "/home/sium/dv/federatedml/src/lr/client.py", line 204, in main
+2022-09-12 19:42:21,876 [DEBUG] gRPC channel closed
+    fl.client.start_numpy_client(IP + ":8080", client=SKClient(None))
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/app.py", line 173, in start_numpy_client
+Mem. usage decreased to  0.62 Mb (74.6% reduction)
+Traceback (most recent call last):
+  File "/home/sium/dv/federatedml/src/lr/client.py", line 207, in <module>
+    start_client(
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/app.py", line 93, in start_client
+    server_message = receive()
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 113, in <lambda>
+    receive: Callable[[], ServerMessage] = lambda: next(server_message_iterator)
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/grpc/_channel.py", line 426, in __next__
+    main()
+  File "/home/sium/dv/federatedml/src/lr/client.py", line 204, in main
+    return self._next()
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/grpc/_channel.py", line 826, in _next
+    fl.client.start_numpy_client(IP + ":8080", client=SKClient(None))
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/app.py", line 173, in start_numpy_client
+    raise self
+    start_client(
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Conexión reinicializada por la máquina remota"
+	debug_error_string = "{"created":"@1663004541.875763507","description":"Error received from peer ipv4:0.0.0.0:8080","file":"src/core/lib/surface/call.cc","file_line":1064,"grpc_message":"Conexi\u00c3\u00b3n reinicializada por la m\u00c3\u00a1quina remota","grpc_status":14}"
+>  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/app.py", line 93, in start_client
+
+    server_message = receive()
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 113, in <lambda>
+    receive: Callable[[], ServerMessage] = lambda: next(server_message_iterator)
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/grpc/_channel.py", line 426, in __next__
+    return self._next()
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/grpc/_channel.py", line 826, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Conexión reinicializada por la máquina remota"
+	debug_error_string = "{"created":"@1663004541.875752326","description":"Error received from peer ipv4:0.0.0.0:8080","file":"src/core/lib/surface/call.cc","file_line":1064,"grpc_message":"Conexi\u00c3\u00b3n reinicializada por la m\u00c3\u00a1quina remota","grpc_status":14}"
+>
+DEBUG flower 2022-09-12 19:42:21,879 | connection.py:121 | gRPC channel closed
+2022-09-12 19:42:21,879 [DEBUG] gRPC channel closed
+Mem. usage decreased to  0.51 Mb (74.6% reduction)
+Traceback (most recent call last):
+  File "/home/sium/dv/federatedml/src/lr/client.py", line 207, in <module>
+    main()
+  File "/home/sium/dv/federatedml/src/lr/client.py", line 204, in main
+    fl.client.start_numpy_client(IP + ":8080", client=SKClient(None))
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/app.py", line 173, in start_numpy_client
+    start_client(
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/app.py", line 93, in start_client
+    server_message = receive()
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 113, in <lambda>
+    receive: Callable[[], ServerMessage] = lambda: next(server_message_iterator)
+DEBUG flower 2022-09-12 19:42:21,880 | connection.py:121 | gRPC channel closed
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/grpc/_channel.py", line 426, in __next__
+2022-09-12 19:42:21,880 [DEBUG] gRPC channel closed
+    return self._next()
+Mem. usage decreased to  0.78 Mb (74.6% reduction)
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/grpc/_channel.py", line 826, in _next
+Traceback (most recent call last):
+  File "/home/sium/dv/federatedml/src/lr/client.py", line 207, in <module>
+    raise self
+    main()
+  File "/home/sium/dv/federatedml/src/lr/client.py", line 204, in main
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Conexión reinicializada por la máquina remota"
+	debug_error_string = "{"created":"@1663004541.875724129","description":"Error received from peer ipv4:0.0.0.0:8080","file":"src/core/lib/surface/call.cc","file_line":1064,"grpc_message":"Conexi\u00c3\u00b3n reinicializada por la m\u00c3\u00a1quina remota","grpc_status":14}"
+>
+    fl.client.start_numpy_client(IP + ":8080", client=SKClient(None))
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/app.py", line 173, in start_numpy_client
+    start_client(
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/app.py", line 93, in start_client
+    server_message = receive()
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 113, in <lambda>
+    receive: Callable[[], ServerMessage] = lambda: next(server_message_iterator)
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/grpc/_channel.py", line 426, in __next__
+    return self._next()
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/grpc/_channel.py", line 826, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Conexión reinicializada por la máquina remota"
+	debug_error_string = "{"created":"@1663004541.875721107","description":"Error received from peer ipv4:0.0.0.0:8080","file":"src/core/lib/surface/call.cc","file_line":1064,"grpc_message":"Conexi\u00c3\u00b3n reinicializada por la m\u00c3\u00a1quina remota","grpc_status":14}"
+>
+DEBUG flower 2022-09-12 19:42:22,077 | connection.py:121 | gRPC channel closed
+DEBUG flower 2022-09-12 19:42:22,077 | connection.py:121 | gRPC channel closed
+2022-09-12 19:42:22,077 [DEBUG] gRPC channel closed
+2022-09-12 19:42:22,077 [DEBUG] gRPC channel closed
+Mem. usage decreased to  0.69 Mb (74.6% reduction)
+Mem. usage decreased to  0.63 Mb (74.6% reduction)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/sium/dv/federatedml/src/lr/client.py", line 207, in <module>
+  File "/home/sium/dv/federatedml/src/lr/client.py", line 207, in <module>
+    main()
+    main()
+  File "/home/sium/dv/federatedml/src/lr/client.py", line 204, in main
+  File "/home/sium/dv/federatedml/src/lr/client.py", line 204, in main
+DEBUG flower 2022-09-12 19:42:22,077 | connection.py:121 | gRPC channel closed
+    fl.client.start_numpy_client(IP + ":8080", client=SKClient(None))
+    fl.client.start_numpy_client(IP + ":8080", client=SKClient(None))
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/app.py", line 173, in start_numpy_client
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/app.py", line 173, in start_numpy_client
+2022-09-12 19:42:22,077 [DEBUG] gRPC channel closed
+Mem. usage decreased to  0.53 Mb (74.6% reduction)
+    start_client(
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/app.py", line 93, in start_client
+    start_client(
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/app.py", line 93, in start_client
+Traceback (most recent call last):
+  File "/home/sium/dv/federatedml/src/lr/client.py", line 207, in <module>
+    server_message = receive()
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 113, in <lambda>
+    server_message = receive()
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 113, in <lambda>
+    receive: Callable[[], ServerMessage] = lambda: next(server_message_iterator)
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/grpc/_channel.py", line 426, in __next__
+    receive: Callable[[], ServerMessage] = lambda: next(server_message_iterator)
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/grpc/_channel.py", line 426, in __next__
+    main()
+  File "/home/sium/dv/federatedml/src/lr/client.py", line 204, in main
+    return self._next()
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/grpc/_channel.py", line 826, in _next
+    fl.client.start_numpy_client(IP + ":8080", client=SKClient(None))
+    return self._next()
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/app.py", line 173, in start_numpy_client
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/grpc/_channel.py", line 826, in _next
+    start_client(
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/app.py", line 93, in start_client
+    server_message = receive()
+    raise self
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 113, in <lambda>
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Conexión reinicializada por la máquina remota"
+	debug_error_string = "{"created":"@1663004541.875735121","description":"Error received from peer ipv4:0.0.0.0:8080","file":"src/core/lib/surface/call.cc","file_line":1064,"grpc_message":"Conexi\u00c3\u00b3n reinicializada por la m\u00c3\u00a1quina remota","grpc_status":14}"
+>
+    receive: Callable[[], ServerMessage] = lambda: next(server_message_iterator)
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/grpc/_channel.py", line 426, in __next__
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Conexión reinicializada por la máquina remota"
+	debug_error_string = "{"created":"@1663004541.875723793","description":"Error received from peer ipv4:0.0.0.0:8080","file":"src/core/lib/surface/call.cc","file_line":1064,"grpc_message":"Conexi\u00c3\u00b3n reinicializada por la m\u00c3\u00a1quina remota","grpc_status":14}"
+>
+    return self._next()
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/grpc/_channel.py", line 826, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Conexión reinicializada por la máquina remota"
+	debug_error_string = "{"created":"@1663004541.875912407","description":"Error received from peer ipv4:0.0.0.0:8080","file":"src/core/lib/surface/call.cc","file_line":1064,"grpc_message":"Conexi\u00c3\u00b3n reinicializada por la m\u00c3\u00a1quina remota","grpc_status":14}"
+>
+DEBUG flower 2022-09-12 19:42:22,080 | connection.py:121 | gRPC channel closed
+DEBUG flower 2022-09-12 19:42:22,080 | connection.py:121 | gRPC channel closed
+DEBUG flower 2022-09-12 19:42:22,080 | connection.py:121 | gRPC channel closed
+2022-09-12 19:42:22,080 [DEBUG] gRPC channel closed
+2022-09-12 19:42:22,080 [DEBUG] gRPC channel closed
+DEBUG flower 2022-09-12 19:42:22,080 | connection.py:121 | gRPC channel closed
+2022-09-12 19:42:22,080 [DEBUG] gRPC channel closed
+Mem. usage decreased to  0.64 Mb (74.6% reduction)
+Mem. usage decreased to  0.85 Mb (74.6% reduction)
+2022-09-12 19:42:22,080 [DEBUG] gRPC channel closed
+Traceback (most recent call last):
+Traceback (most recent call last):
+Mem. usage decreased to  0.54 Mb (74.6% reduction)
+  File "/home/sium/dv/federatedml/src/lr/client.py", line 207, in <module>
+  File "/home/sium/dv/federatedml/src/lr/client.py", line 207, in <module>
+Mem. usage decreased to  0.80 Mb (74.6% reduction)
+Traceback (most recent call last):
+  File "/home/sium/dv/federatedml/src/lr/client.py", line 207, in <module>
+Traceback (most recent call last):
+  File "/home/sium/dv/federatedml/src/lr/client.py", line 207, in <module>
+    main()
+    main()
+  File "/home/sium/dv/federatedml/src/lr/client.py", line 204, in main
+  File "/home/sium/dv/federatedml/src/lr/client.py", line 204, in main
+    main()
+  File "/home/sium/dv/federatedml/src/lr/client.py", line 204, in main
+    main()
+  File "/home/sium/dv/federatedml/src/lr/client.py", line 204, in main
+    fl.client.start_numpy_client(IP + ":8080", client=SKClient(None))
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/app.py", line 173, in start_numpy_client
+    fl.client.start_numpy_client(IP + ":8080", client=SKClient(None))
+    fl.client.start_numpy_client(IP + ":8080", client=SKClient(None))
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/app.py", line 173, in start_numpy_client
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/app.py", line 173, in start_numpy_client
+    start_client(
+    fl.client.start_numpy_client(IP + ":8080", client=SKClient(None))
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/app.py", line 93, in start_client
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/app.py", line 173, in start_numpy_client
+    start_client(
+    start_client(
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/app.py", line 93, in start_client
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/app.py", line 93, in start_client
+    server_message = receive()
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 113, in <lambda>
+    start_client(
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/app.py", line 93, in start_client
+    server_message = receive()
+    server_message = receive()
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 113, in <lambda>
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 113, in <lambda>
+    receive: Callable[[], ServerMessage] = lambda: next(server_message_iterator)
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/grpc/_channel.py", line 426, in __next__
+    server_message = receive()
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 113, in <lambda>
+    receive: Callable[[], ServerMessage] = lambda: next(server_message_iterator)
+    receive: Callable[[], ServerMessage] = lambda: next(server_message_iterator)
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/grpc/_channel.py", line 426, in __next__
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/grpc/_channel.py", line 426, in __next__
+    return self._next()
+    receive: Callable[[], ServerMessage] = lambda: next(server_message_iterator)
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/grpc/_channel.py", line 826, in _next
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/grpc/_channel.py", line 426, in __next__
+    return self._next()
+    return self._next()
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/grpc/_channel.py", line 826, in _next
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/grpc/_channel.py", line 826, in _next
+    return self._next()
+  File "/home/sium/miniconda3/envs/myenv/lib/python3.9/site-packages/grpc/_channel.py", line 826, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Conexión reinicializada por la máquina remota"
+	debug_error_string = "{"created":"@1663004541.875848916","description":"Error received from peer ipv4:0.0.0.0:8080","file":"src/core/lib/surface/call.cc","file_line":1064,"grpc_message":"Conexi\u00c3\u00b3n reinicializada por la m\u00c3\u00a1quina remota","grpc_status":14}"
+>
+    raise self
+    raise self
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Conexión reinicializada por la máquina remota"
+	debug_error_string = "{"created":"@1663004541.875738098","description":"Error received from peer ipv4:0.0.0.0:8080","file":"src/core/lib/surface/call.cc","file_line":1064,"grpc_message":"Conexi\u00c3\u00b3n reinicializada por la m\u00c3\u00a1quina remota","grpc_status":14}"
+>grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Conexión reinicializada por la máquina remota"
+	debug_error_string = "{"created":"@1663004541.875825818","description":"Error received from peer ipv4:0.0.0.0:8080","file":"src/core/lib/surface/call.cc","file_line":1064,"grpc_message":"Conexi\u00c3\u00b3n reinicializada por la m\u00c3\u00a1quina remota","grpc_status":14}"
+>
+
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Conexión reinicializada por la máquina remota"
+	debug_error_string = "{"created":"@1663004541.875723438","description":"Error received from peer ipv4:0.0.0.0:8080","file":"src/core/lib/surface/call.cc","file_line":1064,"grpc_message":"Conexi\u00c3\u00b3n reinicializada por la m\u00c3\u00a1quina remota","grpc_status":14}"
+>
