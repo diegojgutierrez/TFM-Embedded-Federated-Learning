@@ -22,5 +22,10 @@ Execute client/s:
    ```sh
    python client.py True 0 
    ```
+   
+Execute clients with scripts:
+   ```sh
+   ./clientScript.sh
+   ```
 
 True is the flag for the first iteration of hyperparameter optimization. 0 is the index of the dataset.
