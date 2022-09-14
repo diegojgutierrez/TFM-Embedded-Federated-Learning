@@ -5,6 +5,12 @@
 
 Implementation of federared learning and differential privacy on an Raspberry Pi and Jetson Nano.
 
+## Built with
+- Python
+- Tensorflow
+- Flower
+- Scikit-learn
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 
