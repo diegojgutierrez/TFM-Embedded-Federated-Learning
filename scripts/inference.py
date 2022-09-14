@@ -15,7 +15,7 @@ def evaluate_model(y_true, y_pred):
     fpr, tpr, _ = metrics.roc_curve(y_true, y_pred)
     return [metrics.precision_score(y_true, y_pred, average = 'macro'), metrics.recall_score(y_true, y_pred, average = 'macro'), metrics.f1_score(y_true, y_pred, average='macro'), metrics.accuracy_score(y_true, y_pred), metrics.auc(fpr, tpr)]
 
-train = pd.read_csv("../data/processed/train2_data_" + sys.argv[1] + ".csv")
+train = pd.read_csv("../data/processed/train_data_" + sys.argv[1] + ".csv")
 
 train = drop_columns(train)
 train['Amount'] = boxcox1p(train['Amount'], boxcox_normmax(train['Amount'] + 1))
