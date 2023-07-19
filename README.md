@@ -1,4 +1,4 @@
-# TFM-Embedded-Federeted-Learning
+# TFM-Embedded-Federated-Learning
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
